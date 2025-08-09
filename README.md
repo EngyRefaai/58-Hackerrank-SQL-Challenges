@@ -22,3 +22,9 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) |[SQL](Select%20challenges/13_Weather_Observation_Station_8.sql) |
 | 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) |[SQL](Select%20challenges/14_Weather_Observation_Station_9.sql) |
 | 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |[SQL](Select%20challenges/15_Weather_Observation_Station_10.sql) |
+| 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |[SQL](Select%20challenges/16_Weather_Observation_Station_11.sql) |
+| 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) |[SQL](Select%20challenges/17_Weather_Observation_Station_12.sql) |
+| 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |[SQL](Select%20challenges/18_Higher_Than_75_Marks.sql) |
+| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |[SQL](Select%20challenges/19_Employee_Names.sql) |
+| 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |[SQL](Select%20challenges/20_Employee_Salaries.sql) |
+
