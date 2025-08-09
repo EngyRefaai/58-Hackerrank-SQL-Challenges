@@ -3,7 +3,7 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 
 ## Domains
 
-### Basic Select Challenges
+### All Select Challenges
 
 | Number | Challenges | Solutions |
 |--------|------------|-----------|
