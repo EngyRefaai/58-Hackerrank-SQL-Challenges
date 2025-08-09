@@ -33,5 +33,15 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 24 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) |[SQL](Select%20challenges/24_Binary_Tree_Nodes.sql) |
 | 25 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) |[SQL](Select%20challenges/25_New_Companies.sql) |
 
+### Basic Join Challenges
 
-
+| Number | Challenges | Solutions |
+|--------|------------|-----------|
+| 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) |[SQL](Basic_Join/01_Population_Census.sql) |
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) |[SQL](Basic_Join/02_African_Cities.sql) |
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) |[SQL](Basic_Join/03_Average_Population_of_Each_Continent.sql) |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true) |[SQL](Basic_Join/04_The_Report.sql) |
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) |[SQL](Basic_Join/05_Top_Competitors.sql) |
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) |[SQL](Basic_Join/06_Ollivander's_Inventory.sql) |
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true) |[SQL](Basic_Join/07_Challenges.sql) |
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true) |[SQL](Basic_Join/08_Contest_Leaderboard.sql) |
