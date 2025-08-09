@@ -31,5 +31,7 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 22 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) |[SQL](Select%20challenges/22_The_PADS.sql) |
 | 23 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) |[SQL](Select%20challenges/23_Occupations.sql) |
 | 24 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) |[SQL](Select%20challenges/24_Binary_Tree_Nodes.sql) |
+| 25 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) |[SQL](Select%20challenges/25_New_Companies.sql) |
+
 
 
