@@ -1,0 +1,4 @@
+SELECT 
+    CEIL(ABS(
+        (SELECT AVG(CAST(REPLACE(salary, '0', '') AS UNSIGNED)) FROM EMPLOYEES)
+        - (SELECT AVG(salary) FROM EMPLOYEES))) ;
