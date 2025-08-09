@@ -5,7 +5,7 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 
 ### All Select Challenges
 
-| Number | Challenges | Solutions |
+| Index | Challenges | Solutions |
 |--------|------------|-----------|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |[SQL](Select%20challenges/01_Revising_the_Select_Query_I.sql) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) |[SQL](Select%20challenges/02_Revising_the_Select_Query_II.sql) |
@@ -35,7 +35,7 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 
 ### Basic Join Challenges
 
-| Number | Challenges | Solutions |
+| Index | Challenges | Solutions |
 |--------|------------|-----------|
 | 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) |[SQL](Basic_Join/01_Population_Census.sql) |
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) |[SQL](Basic_Join/02_African_Cities.sql) |
@@ -45,3 +45,13 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) |[SQL](Basic_Join/06_Ollivander's_Inventory.sql) |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true) |[SQL](Basic_Join/07_Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true) |[SQL](Basic_Join/08_Contest_Leaderboard.sql) |
+
+### Advanced Join Challenges
+
+| Index | Challenges | Solutions |
+|--------|------------|-----------|
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true) |[SQL](Advanced_Join/01_SQL_Project_Planning.sql) |
+| 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) |[SQL](Advanced_Join/02_Placements.sql) |
+| 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) |[SQL](Advanced_Join/03_Symmetric_Pairs.sql) |
+| 4 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true) |[SQL](Advanced_Join/04_Interviews.sql) |
+| 5 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true) |[SQL](Advanced_Join/05_15_Days_of_Learning_SQL.sql) |
