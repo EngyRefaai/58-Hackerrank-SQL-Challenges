@@ -1,0 +1,14 @@
+SELECT ROUND(
+    SQRT(
+        POWER(MAX(LAT_N) - MIN(LAT_N), 2) +
+        POWER(MAX(LONG_W) - MIN(LONG_W), 2)
+    ), 4
+) AS EuclideanDistance
+FROM STATION;
+
+--OR
+
+SET @V1 = (SELECT POWER(MAX(LAT_N) - MIN(LAT_N), 2) FROM STATION);
+SET @V2 = (SELECT POWER(MIN(LONG_W) - MAX(LONG_W), 2) FROM STATION);
+
+SELECT ROUND(SQRT(@V1 + @V2), 4) AS EuclideanDistance;
