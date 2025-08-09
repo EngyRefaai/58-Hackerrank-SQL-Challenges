@@ -27,4 +27,4 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |[SQL](Select%20challenges/18_Higher_Than_75_Marks.sql) |
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |[SQL](Select%20challenges/19_Employee_Names.sql) |
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |[SQL](Select%20challenges/20_Employee_Salaries.sql) |
-
+| 21 | [Employee Salaries](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) |[SQL](Select%20challenges/21_Type_of_Triangle.sql) |
