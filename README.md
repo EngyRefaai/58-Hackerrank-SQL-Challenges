@@ -20,5 +20,5 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) |[SQL](Select%20challenges/11_Weather_Observation_Station_6.sql) |
 | 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) |[SQL](Select%20challenges/12_Weather_Observation_Station_7.sql) |
 | 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) |[SQL](Select%20challenges/13_Weather_Observation_Station_8.sql) |
-| 12 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) |[SQL](Select%20challenges/14_Weather_Observation_Station_9.sql) |
-| 14 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |[SQL](Select%20challenges/15_Weather_Observation_Station_10.sql) |
+| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) |[SQL](Select%20challenges/14_Weather_Observation_Station_9.sql) |
+| 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |[SQL](Select%20challenges/15_Weather_Observation_Station_10.sql) |
