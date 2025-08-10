@@ -60,7 +60,8 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 
 | Index | Challenges | Solutions |
 |--------|------------|-----------|
-| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |[SQL](Aggregation__challenges/01_Revising_Aggregations_The_Count_Function.sql) |
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |[SQL]
+(Aggregation__challenges/01_Revising_Aggregations_The_Count_Function.sql) |
 | 2 | [Revising Aggregations - The Sum Function]([https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)) |[SQL](Aggregation__challenges/02_Revising_Aggregations_The_Sum_Function.sql) |
 | 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |[SQL](Aggregation__challenges/03_Revising_Aggregations_Averages.sql) |
 | 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |[SQL](Aggregation__challenges/04_Average_Population.sql) |
