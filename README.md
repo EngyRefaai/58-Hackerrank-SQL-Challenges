@@ -65,3 +65,15 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |[SQL](Aggregation__challenges/03_Revising_Aggregations_Averages.sql) |
 | 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |[SQL](Aggregation__challenges/04_Average_Population.sql) |
 | 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) |[SQL](Aggregation__challenges/05_Japan_Population.sql) |
+| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) |[SQL](Aggregation__challenges/06_Population_Density_Difference.sql) |
+| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) |[SQL](Aggregation__challenges/07_The_Blunder.sql) |
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) |[SQL](Aggregation__challenges/08_Top_Earners.sql) |
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true) |[SQL](Aggregation__challenges/09_Weather_Observation_Station_2.sql) |
+| 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true) |[SQL](Aggregation__challenges/10_Weather_Observation_Station_13.sql) |
+| 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true) |[SQL](Aggregation__challenges/11_Weather_Observation_Station_14.sql) |
+| 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true) |[SQL](Aggregation__challenges/12_Weather_Observation_Station_15.sql) |
+| 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true) |[SQL](Aggregation__challenges/13_Weather_Observation_Station_16.sql) |
+| 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true) |[SQL](Aggregation__challenges/14_Weather_Observation_Station_17.sql) |
+| 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true) |[SQL](Aggregation__challenges/15_Weather_Observation_Station_18.sql) |
+| 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true) |[SQL](Aggregation__challenges/16_Weather_Observation_Station_19.sql) |
+| 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true) |[SQL](Aggregation__challenges/17_Weather_Observation_Station_20.sql) |
