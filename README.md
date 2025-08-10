@@ -1,5 +1,8 @@
-# 58-hackerrank-sql-challenges
-A collection of 58 SQL challenges solved from HackerRank , ranging from simple SELECT statements to complex joins, aggregations, and subqueries.
+#58 HackerRank SQL Challenges
+A collection of 58 SQL challenges solved from A collection of SQL challenges solved from [HackerRank](https://www.hackerrank.com/domains/sql).
+, covering everything from simple SELECT statements to complex joins, aggregations, and subqueries.
+
+The solutions are organized by challenge type and include direct links to both the original problem and the corresponding SQL solution file in this repository.
 
 ## Domains
 
