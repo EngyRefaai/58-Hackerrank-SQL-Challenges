@@ -4,7 +4,7 @@ A collection of 58 SQL challenges solved from A collection of SQL challenges sol
 
 The solutions are organized by challenge type and include direct links to both the original problem and the corresponding SQL solution file in this repository.
 
-## Domains
+## SQL Challenge Categories
 
 ### All Select Challenges
 
