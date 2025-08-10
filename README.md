@@ -55,3 +55,13 @@ A collection of 58 SQL challenges solved from HackerRank , ranging from simple S
 | 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) |[SQL](Advanced_Join/03_Symmetric_Pairs.sql) |
 | 4 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true) |[SQL](Advanced_Join/04_Interviews.sql) |
 | 5 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true) |[SQL](Advanced_Join/05_15_Days_of_Learning_SQL.sql) |
+
+### Aggregation Challenges
+
+| Index | Challenges | Solutions |
+|--------|------------|-----------|
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |[SQL](Aggregation__challenges/01_Revising_Aggregations_The_Count_Function.sql) |
+| 2 | [Revising Aggregations - The Sum Function]([https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)) |[SQL](Aggregation__challenges/02_Revising_Aggregations_The_Sum_Function.sql) |
+| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |[SQL](Aggregation__challenges/03_Revising_Aggregations_Averages.sql) |
+| 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |[SQL](Aggregation__challenges/04_Average_Population.sql) |
+| 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) |[SQL](Aggregation__challenges/05_Japan_Population.sql) |
