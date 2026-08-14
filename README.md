@@ -89,4 +89,3 @@ The solutions are organized by challenge type and include direct links to both t
 | 2 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true) |[SQL](Alternative_Queries/02_Draw_The_Triangle_2.sql) |
 | 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true) |[SQL](Alternative_Queries/03_Print_Prime_Numbers.sql) |
 
-### 🏆Badges I got after Solving all the challenge problems
